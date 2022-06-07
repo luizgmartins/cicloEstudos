@@ -28,7 +28,7 @@ A imagem abaixo contém o link do vídeo que mostra o resultado do app.
 - Outros pontos interessantes poderiam ser adicionados em outras atualizações como um registro de tempo de atividade que o usuário utilizou em cada disciplina. Ou até mesmo alerta em forma de alarme para avisar ao usuário que ele atingiu o tempo pré-determinado por ele para aquela atividade e no caso deveria ir para a próxima.
 
 -----------------
-# Referências
+## Referências
 
 - https://github.com/luizgmartins/flashlightDT
 - https://www.estudaqui.com/blog/concursos/como-montar-ciclo-estudo/
