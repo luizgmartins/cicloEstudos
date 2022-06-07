@@ -21,7 +21,7 @@ A imagem abaixo contém o link do vídeo que mostra o resultado do app.
 -----------------
 ## Observações e Melhorias Futuras
 
-- Como o app não permite edição durante o seu uso, não é possível trocar as disciplinas exceto na criação de um novo apk. Mas essa parte poderia ser adicionada ao código em uma nova versão do app onde o usuário poderia modificar as disciplinas e adicionar novas e retirar totalmente alguma que existe.
+- Como o app não permite edição durante o seu uso, não é possível trocar as disciplinas exceto na criação de um novo apk. Mas essa parte poderia ser adicionada ao código em uma nova versão do app onde o usuário poderia modificar as disciplinas e adicionar novas ou retirar totalmente alguma que existe.
 
 - Um outro ponto a se destacar é que se o usuário fechar o app totalmente, ou seja, fechar ele até em segundo plano, o app para de registrar a disciplina atual e reinicia o ciclo para a primeira utilização. Isso poderia ser resolvido adicionando um arquivo para registro do índice que representa a disciplina que o usuário estava estudando. Assim, ao abrir novamente o app ele iria verificar qual o último estado salvo, retornando ao usuário a sua última atividade.
 
